@@ -28,7 +28,7 @@ const styles = {
     borderColor: '#007aff',
     marginLeft: 5,
     marginRight: 5,
-    paddingBottom: 20
+    paddingBottom: 30
   }
 };
 
