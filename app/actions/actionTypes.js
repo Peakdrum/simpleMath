@@ -1,0 +1,3 @@
+export const NUMBER1_CHANGE = 'NUMBER1_CHANGE';
+export const NUMBER2_CHANGE = 'NUMBER2_CHANGE';
+export const CALCULATE_ALL = 'CALCULATE_ALL';

@@ -1,0 +1,3 @@
+rootProject.name = 'simpleMath'
+
+include ':app'
